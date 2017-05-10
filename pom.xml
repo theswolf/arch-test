@@ -77,7 +77,7 @@
 						</goals>
 					</execution>
 					<execution>
-						<id>stop</id>
+						<id>stop</id> 
 						<phase>post-integration-test</phase>
 						<goals>
 							<goal>stop</goal>
